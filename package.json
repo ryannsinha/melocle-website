@@ -1,0 +1,11 @@
+{
+  "name": "melocle-marketing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Melocle social GTM marketing website",
+  "scripts": {
+    "dev": "python3 server.py",
+    "start": "python3 server.py",
+    "check": "node --check content.js && node --check script.js && node --check requests.js && node --check local-review.js && python3 -m unittest -q"
+  }
+}

@@ -1,0 +1,936 @@
+{
+  "passed": 82,
+  "total": 82,
+  "checks": [
+    {
+      "name": "1440x900 no document overflow",
+      "pass": true
+    },
+    {
+      "name": "1440x900 platform presence fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "presence-section",
+          "client": 518,
+          "scroll": 518,
+          "bottom": 681.453125
+        },
+        {
+          "cls": "presence-panel stack-card-preview",
+          "client": 358,
+          "scroll": 358,
+          "bottom": 601.453125
+        }
+      ]
+    },
+    {
+      "name": "1440x900 platform social-chorus fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "chorus-section",
+          "client": 518,
+          "scroll": 518,
+          "bottom": 713.453125
+        },
+        {
+          "cls": "presence-panel stack-card-preview",
+          "client": 358,
+          "scroll": 358,
+          "bottom": 633.453125
+        }
+      ]
+    },
+    {
+      "name": "1440x900 platform signals fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "signals-section",
+          "client": 518,
+          "scroll": 518,
+          "bottom": 745.453125
+        },
+        {
+          "cls": "stack-signal-demo stack-card-preview",
+          "client": 358,
+          "scroll": 358,
+          "bottom": 665.453125
+        }
+      ]
+    },
+    {
+      "name": "1440x900 platform outreach fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "outreach-section",
+          "client": 518,
+          "scroll": 518,
+          "bottom": 777.453125
+        },
+        {
+          "cls": "stack-outreach-demo stack-card-preview",
+          "client": 360,
+          "scroll": 360,
+          "bottom": 697.453125
+        }
+      ]
+    },
+    {
+      "name": "1440x900 platform unibox fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "unibox-section",
+          "client": 518,
+          "scroll": 518,
+          "bottom": 743.453125
+        },
+        {
+          "cls": "unibox-preview stack-card-preview",
+          "client": 358,
+          "scroll": 358,
+          "bottom": 663.453125
+        }
+      ]
+    },
+    {
+      "name": "1440x900 case founders fits",
+      "pass": true,
+      "detail": {
+        "client": 504,
+        "scroll": 504,
+        "bottom": 613,
+        "active": "founders"
+      }
+    },
+    {
+      "name": "1440x900 case marketing fits",
+      "pass": true,
+      "detail": {
+        "client": 504,
+        "scroll": 504,
+        "bottom": 633,
+        "active": "marketing"
+      }
+    },
+    {
+      "name": "1440x900 case sales fits",
+      "pass": true,
+      "detail": {
+        "client": 504,
+        "scroll": 504,
+        "bottom": 653,
+        "active": "sales"
+      }
+    },
+    {
+      "name": "1440x900 case experts fits",
+      "pass": true,
+      "detail": {
+        "client": 504,
+        "scroll": 504,
+        "bottom": 673,
+        "active": "experts"
+      }
+    },
+    {
+      "name": "1440x900 case agencies fits",
+      "pass": true,
+      "detail": {
+        "client": 504,
+        "scroll": 504,
+        "bottom": 693,
+        "active": "agencies"
+      }
+    },
+    {
+      "name": "1280x768 no document overflow",
+      "pass": true
+    },
+    {
+      "name": "1280x768 platform presence fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "presence-section",
+          "client": 453,
+          "scroll": 453,
+          "bottom": 616
+        },
+        {
+          "cls": "presence-panel stack-card-preview",
+          "client": 358,
+          "scroll": 358,
+          "bottom": 568.5
+        }
+      ]
+    },
+    {
+      "name": "1280x768 platform social-chorus fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "chorus-section",
+          "client": 453,
+          "scroll": 453,
+          "bottom": 648
+        },
+        {
+          "cls": "presence-panel stack-card-preview",
+          "client": 358,
+          "scroll": 358,
+          "bottom": 600.5
+        }
+      ]
+    },
+    {
+      "name": "1280x768 platform signals fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "signals-section",
+          "client": 453,
+          "scroll": 453,
+          "bottom": 680
+        },
+        {
+          "cls": "stack-signal-demo stack-card-preview",
+          "client": 358,
+          "scroll": 358,
+          "bottom": 632.5
+        }
+      ]
+    },
+    {
+      "name": "1280x768 platform outreach fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "outreach-section",
+          "client": 453,
+          "scroll": 453,
+          "bottom": 712
+        },
+        {
+          "cls": "stack-outreach-demo stack-card-preview",
+          "client": 360,
+          "scroll": 360,
+          "bottom": 664.5
+        }
+      ]
+    },
+    {
+      "name": "1280x768 platform unibox fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "unibox-section",
+          "client": 453,
+          "scroll": 453,
+          "bottom": 678
+        },
+        {
+          "cls": "unibox-preview stack-card-preview",
+          "client": 358,
+          "scroll": 358,
+          "bottom": 630.5
+        }
+      ]
+    },
+    {
+      "name": "1280x768 case founders fits",
+      "pass": true,
+      "detail": {
+        "client": 504,
+        "scroll": 504,
+        "bottom": 613,
+        "active": "founders"
+      }
+    },
+    {
+      "name": "1280x768 case marketing fits",
+      "pass": true,
+      "detail": {
+        "client": 504,
+        "scroll": 504,
+        "bottom": 633,
+        "active": "marketing"
+      }
+    },
+    {
+      "name": "1280x768 case sales fits",
+      "pass": true,
+      "detail": {
+        "client": 504,
+        "scroll": 504,
+        "bottom": 653,
+        "active": "sales"
+      }
+    },
+    {
+      "name": "1280x768 case experts fits",
+      "pass": true,
+      "detail": {
+        "client": 504,
+        "scroll": 504,
+        "bottom": 673,
+        "active": "experts"
+      }
+    },
+    {
+      "name": "1280x768 case agencies fits",
+      "pass": true,
+      "detail": {
+        "client": 504,
+        "scroll": 504,
+        "bottom": 693,
+        "active": "agencies"
+      }
+    },
+    {
+      "name": "768x1024 no document overflow",
+      "pass": true
+    },
+    {
+      "name": "768x1024 platform presence fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "presence-section",
+          "client": 518,
+          "scroll": 518,
+          "bottom": 674.078369140625
+        },
+        {
+          "cls": "presence-panel stack-card-preview",
+          "client": 338,
+          "scroll": 338,
+          "bottom": 584.1053466796875
+        }
+      ]
+    },
+    {
+      "name": "768x1024 platform social-chorus fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "chorus-section",
+          "client": 518,
+          "scroll": 518,
+          "bottom": 706.234375
+        },
+        {
+          "cls": "presence-panel stack-card-preview",
+          "client": 338,
+          "scroll": 338,
+          "bottom": 616.234375
+        }
+      ]
+    },
+    {
+      "name": "768x1024 platform signals fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "signals-section",
+          "client": 518,
+          "scroll": 518,
+          "bottom": 738.234375
+        },
+        {
+          "cls": "stack-signal-demo stack-card-preview",
+          "client": 338,
+          "scroll": 338,
+          "bottom": 648.234375
+        }
+      ]
+    },
+    {
+      "name": "768x1024 platform outreach fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "outreach-section",
+          "client": 518,
+          "scroll": 518,
+          "bottom": 770.234375
+        },
+        {
+          "cls": "stack-outreach-demo stack-card-preview",
+          "client": 340,
+          "scroll": 340,
+          "bottom": 680.234375
+        }
+      ]
+    },
+    {
+      "name": "768x1024 platform unibox fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "unibox-section",
+          "client": 518,
+          "scroll": 518,
+          "bottom": 736.234375
+        },
+        {
+          "cls": "unibox-preview stack-card-preview",
+          "client": 338,
+          "scroll": 338,
+          "bottom": 646.234375
+        }
+      ]
+    },
+    {
+      "name": "768x1024 case founders fits",
+      "pass": true,
+      "detail": {
+        "client": 515,
+        "scroll": 515,
+        "bottom": 617,
+        "active": "founders"
+      }
+    },
+    {
+      "name": "768x1024 case marketing fits",
+      "pass": true,
+      "detail": {
+        "client": 515,
+        "scroll": 515,
+        "bottom": 637,
+        "active": "marketing"
+      }
+    },
+    {
+      "name": "768x1024 case sales fits",
+      "pass": true,
+      "detail": {
+        "client": 515,
+        "scroll": 515,
+        "bottom": 657,
+        "active": "sales"
+      }
+    },
+    {
+      "name": "768x1024 case experts fits",
+      "pass": true,
+      "detail": {
+        "client": 515,
+        "scroll": 515,
+        "bottom": 677,
+        "active": "experts"
+      }
+    },
+    {
+      "name": "768x1024 case agencies fits",
+      "pass": true,
+      "detail": {
+        "client": 515,
+        "scroll": 515,
+        "bottom": 697,
+        "active": "agencies"
+      }
+    },
+    {
+      "name": "390x844 no document overflow",
+      "pass": true
+    },
+    {
+      "name": "390x844 platform presence fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "presence-section",
+          "client": 518,
+          "scroll": 518,
+          "bottom": 659
+        },
+        {
+          "cls": "presence-panel stack-card-preview",
+          "client": 268,
+          "scroll": 268,
+          "bottom": 634
+        }
+      ]
+    },
+    {
+      "name": "390x844 platform social-chorus fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "chorus-section",
+          "client": 518,
+          "scroll": 518,
+          "bottom": 683
+        },
+        {
+          "cls": "presence-panel stack-card-preview",
+          "client": 309,
+          "scroll": 309,
+          "bottom": 658
+        }
+      ]
+    },
+    {
+      "name": "390x844 platform signals fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "signals-section",
+          "client": 518,
+          "scroll": 518,
+          "bottom": 707
+        },
+        {
+          "cls": "stack-signal-demo stack-card-preview",
+          "client": 268,
+          "scroll": 268,
+          "bottom": 682
+        }
+      ]
+    },
+    {
+      "name": "390x844 platform outreach fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "outreach-section",
+          "client": 518,
+          "scroll": 518,
+          "bottom": 731
+        },
+        {
+          "cls": "stack-outreach-demo stack-card-preview",
+          "client": 284,
+          "scroll": 284,
+          "bottom": 706
+        }
+      ]
+    },
+    {
+      "name": "390x844 platform unibox fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "unibox-section",
+          "client": 518,
+          "scroll": 518,
+          "bottom": 696
+        },
+        {
+          "cls": "unibox-preview stack-card-preview",
+          "client": 309,
+          "scroll": 309,
+          "bottom": 671
+        }
+      ]
+    },
+    {
+      "name": "390x844 case founders fits",
+      "pass": true,
+      "detail": {
+        "client": 601,
+        "scroll": 601,
+        "bottom": 791.5,
+        "active": "founders"
+      }
+    },
+    {
+      "name": "390x844 case marketing fits",
+      "pass": true,
+      "detail": {
+        "client": 601,
+        "scroll": 601,
+        "bottom": 800.5,
+        "active": "marketing"
+      }
+    },
+    {
+      "name": "390x844 case sales fits",
+      "pass": true,
+      "detail": {
+        "client": 601,
+        "scroll": 601,
+        "bottom": 809.5,
+        "active": "sales"
+      }
+    },
+    {
+      "name": "390x844 case experts fits",
+      "pass": true,
+      "detail": {
+        "client": 601,
+        "scroll": 601,
+        "bottom": 818.5,
+        "active": "experts"
+      }
+    },
+    {
+      "name": "390x844 case agencies fits",
+      "pass": true,
+      "detail": {
+        "client": 601,
+        "scroll": 601,
+        "bottom": 827.5,
+        "active": "agencies"
+      }
+    },
+    {
+      "name": "390x667 no document overflow",
+      "pass": true
+    },
+    {
+      "name": "390x667 platform presence fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "presence-section",
+          "client": 412,
+          "scroll": 412,
+          "bottom": 553
+        },
+        {
+          "cls": "presence-panel stack-card-preview",
+          "client": 182,
+          "scroll": 182,
+          "bottom": 532
+        }
+      ]
+    },
+    {
+      "name": "390x667 platform social-chorus fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "chorus-section",
+          "client": 412,
+          "scroll": 412,
+          "bottom": 577
+        },
+        {
+          "cls": "presence-panel stack-card-preview",
+          "client": 223,
+          "scroll": 223,
+          "bottom": 556
+        }
+      ]
+    },
+    {
+      "name": "390x667 platform signals fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "signals-section",
+          "client": 412,
+          "scroll": 412,
+          "bottom": 601
+        },
+        {
+          "cls": "stack-signal-demo stack-card-preview",
+          "client": 182,
+          "scroll": 182,
+          "bottom": 580
+        }
+      ]
+    },
+    {
+      "name": "390x667 platform outreach fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "outreach-section",
+          "client": 412,
+          "scroll": 412,
+          "bottom": 625
+        },
+        {
+          "cls": "stack-outreach-demo stack-card-preview",
+          "client": 199,
+          "scroll": 199,
+          "bottom": 604
+        }
+      ]
+    },
+    {
+      "name": "390x667 platform unibox fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "unibox-section",
+          "client": 412,
+          "scroll": 412,
+          "bottom": 590
+        },
+        {
+          "cls": "unibox-preview stack-card-preview",
+          "client": 244,
+          "scroll": 244,
+          "bottom": 569
+        }
+      ]
+    },
+    {
+      "name": "390x667 case founders fits",
+      "pass": true,
+      "detail": {
+        "client": 441,
+        "scroll": 441,
+        "bottom": 631.5,
+        "active": "founders"
+      }
+    },
+    {
+      "name": "390x667 case marketing fits",
+      "pass": true,
+      "detail": {
+        "client": 441,
+        "scroll": 441,
+        "bottom": 635.5,
+        "active": "marketing"
+      }
+    },
+    {
+      "name": "390x667 case sales fits",
+      "pass": true,
+      "detail": {
+        "client": 441,
+        "scroll": 441,
+        "bottom": 639.5,
+        "active": "sales"
+      }
+    },
+    {
+      "name": "390x667 case experts fits",
+      "pass": true,
+      "detail": {
+        "client": 441,
+        "scroll": 441,
+        "bottom": 643.5,
+        "active": "experts"
+      }
+    },
+    {
+      "name": "390x667 case agencies fits",
+      "pass": true,
+      "detail": {
+        "client": 441,
+        "scroll": 441,
+        "bottom": 647.5,
+        "active": "agencies"
+      }
+    },
+    {
+      "name": "320x740 no document overflow",
+      "pass": true
+    },
+    {
+      "name": "320x740 platform presence fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "presence-section",
+          "client": 485,
+          "scroll": 485,
+          "bottom": 626
+        },
+        {
+          "cls": "presence-panel stack-card-preview",
+          "client": 255,
+          "scroll": 255,
+          "bottom": 605
+        }
+      ]
+    },
+    {
+      "name": "320x740 platform social-chorus fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "chorus-section",
+          "client": 485,
+          "scroll": 485,
+          "bottom": 650
+        },
+        {
+          "cls": "presence-panel stack-card-preview",
+          "client": 296,
+          "scroll": 296,
+          "bottom": 629
+        }
+      ]
+    },
+    {
+      "name": "320x740 platform signals fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "signals-section",
+          "client": 485,
+          "scroll": 485,
+          "bottom": 674
+        },
+        {
+          "cls": "stack-signal-demo stack-card-preview",
+          "client": 255,
+          "scroll": 255,
+          "bottom": 653
+        }
+      ]
+    },
+    {
+      "name": "320x740 platform outreach fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "outreach-section",
+          "client": 485,
+          "scroll": 485,
+          "bottom": 698
+        },
+        {
+          "cls": "stack-outreach-demo stack-card-preview",
+          "client": 251,
+          "scroll": 251,
+          "bottom": 677
+        }
+      ]
+    },
+    {
+      "name": "320x740 platform unibox fits",
+      "pass": true,
+      "detail": [
+        {
+          "cls": "unibox-section",
+          "client": 485,
+          "scroll": 485,
+          "bottom": 663
+        },
+        {
+          "cls": "unibox-preview stack-card-preview",
+          "client": 296,
+          "scroll": 296,
+          "bottom": 642
+        }
+      ]
+    },
+    {
+      "name": "320x740 case founders fits",
+      "pass": true,
+      "detail": {
+        "client": 462,
+        "scroll": 462,
+        "bottom": 652.5,
+        "active": "founders"
+      }
+    },
+    {
+      "name": "320x740 case marketing fits",
+      "pass": true,
+      "detail": {
+        "client": 462,
+        "scroll": 462,
+        "bottom": 662.5,
+        "active": "marketing"
+      }
+    },
+    {
+      "name": "320x740 case sales fits",
+      "pass": true,
+      "detail": {
+        "client": 462,
+        "scroll": 462,
+        "bottom": 672.5,
+        "active": "sales"
+      }
+    },
+    {
+      "name": "320x740 case experts fits",
+      "pass": true,
+      "detail": {
+        "client": 462,
+        "scroll": 462,
+        "bottom": 682.5,
+        "active": "experts"
+      }
+    },
+    {
+      "name": "320x740 case agencies fits",
+      "pass": true,
+      "detail": {
+        "client": 462,
+        "scroll": 462,
+        "bottom": 692.5,
+        "active": "agencies"
+      }
+    },
+    {
+      "name": "Readable mobile preview overview",
+      "pass": true
+    },
+    {
+      "name": "Readable mobile preview content",
+      "pass": true
+    },
+    {
+      "name": "Readable mobile preview chorus",
+      "pass": true
+    },
+    {
+      "name": "Readable mobile preview signals",
+      "pass": true
+    },
+    {
+      "name": "Readable mobile preview leads",
+      "pass": true
+    },
+    {
+      "name": "Readable mobile preview outreach",
+      "pass": true
+    },
+    {
+      "name": "Readable mobile preview inbox",
+      "pass": true
+    },
+    {
+      "name": "Readable mobile preview mello",
+      "pass": true
+    },
+    {
+      "name": "Concise content preview hides extra boards",
+      "pass": true
+    },
+    {
+      "name": "Expanded workspace example reveals full boards",
+      "pass": true
+    },
+    {
+      "name": "Connected story retains all five stages",
+      "pass": true
+    },
+    {
+      "name": "Full coverage retains 36 signals",
+      "pass": true,
+      "detail": 36
+    },
+    {
+      "name": "Local privacy information opens",
+      "pass": true
+    },
+    {
+      "name": "Social preview and favicon metadata exist",
+      "pass": true
+    },
+    {
+      "name": "All internal links resolve",
+      "pass": true
+    },
+    {
+      "name": "No runtime errors",
+      "pass": true,
+      "detail": []
+    }
+  ]
+}

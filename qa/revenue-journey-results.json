@@ -1,0 +1,120 @@
+{
+  "passed": 28,
+  "total": 28,
+  "checks": [
+    {
+      "name": "Approved hero retained",
+      "pass": true
+    },
+    {
+      "name": "Four central workflows remain explicit",
+      "pass": true
+    },
+    {
+      "name": "Supporting capabilities are collapsed",
+      "pass": true
+    },
+    {
+      "name": "Supporting capabilities remain available",
+      "pass": true
+    },
+    {
+      "name": "Overview retains all five connected steps",
+      "pass": true
+    },
+    {
+      "name": "Outreach keeps source and response with the draft",
+      "pass": true
+    },
+    {
+      "name": "Handoff continues to Unibox",
+      "pass": true
+    },
+    {
+      "name": "Engagement example no longer presented as buying intent",
+      "pass": true
+    },
+    {
+      "name": "1440 request dialog fits",
+      "pass": true
+    },
+    {
+      "name": "1440 privacy opens inside access journey",
+      "pass": true
+    },
+    {
+      "name": "1440 returns to access form",
+      "pass": true
+    },
+    {
+      "name": "390 request dialog fits",
+      "pass": true
+    },
+    {
+      "name": "390 privacy opens inside access journey",
+      "pass": true
+    },
+    {
+      "name": "390 returns to access form",
+      "pass": true
+    },
+    {
+      "name": "320 request dialog fits",
+      "pass": true
+    },
+    {
+      "name": "320 privacy opens inside access journey",
+      "pass": true
+    },
+    {
+      "name": "320 returns to access form",
+      "pass": true
+    },
+    {
+      "name": "Founder CTA prefills founder role",
+      "pass": true
+    },
+    {
+      "name": "Request is saved with precise role and attribution",
+      "pass": true
+    },
+    {
+      "name": "Reached milestones survive closure",
+      "pass": true
+    },
+    {
+      "name": "Source cohort preserves all four reached milestones",
+      "pass": true
+    },
+    {
+      "name": "Review desk includes qualification and first-value playbook",
+      "pass": true
+    },
+    {
+      "name": "Playbook covers all five starting workflows",
+      "pass": true
+    },
+    {
+      "name": "1440 desk has no horizontal document overflow",
+      "pass": true
+    },
+    {
+      "name": "390 desk has no horizontal document overflow",
+      "pass": true
+    },
+    {
+      "name": "320 desk has no horizontal document overflow",
+      "pass": true
+    },
+    {
+      "name": "No external network requests",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "No runtime errors",
+      "pass": true,
+      "detail": []
+    }
+  ]
+}

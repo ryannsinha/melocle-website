@@ -1,0 +1,534 @@
+{
+  "passed": true,
+  "results": [
+    {
+      "width": 1440,
+      "expanded": false,
+      "spacing": false,
+      "consistent": true,
+      "unclipped": true,
+      "overflow": false,
+      "rows": [
+        {
+          "id": "overview",
+          "height": 514.6875,
+          "width": 1120,
+          "client": 434,
+          "scroll": 434
+        },
+        {
+          "id": "content",
+          "height": 514.6875,
+          "width": 1120,
+          "client": 434,
+          "scroll": 434
+        },
+        {
+          "id": "chorus",
+          "height": 514.6875,
+          "width": 1120,
+          "client": 434,
+          "scroll": 434
+        },
+        {
+          "id": "signals",
+          "height": 514.6875,
+          "width": 1120,
+          "client": 434,
+          "scroll": 434
+        },
+        {
+          "id": "leads",
+          "height": 514.6875,
+          "width": 1120,
+          "client": 434,
+          "scroll": 434
+        },
+        {
+          "id": "outreach",
+          "height": 514.6875,
+          "width": 1120,
+          "client": 434,
+          "scroll": 434
+        },
+        {
+          "id": "inbox",
+          "height": 514.6875,
+          "width": 1120,
+          "client": 434,
+          "scroll": 434
+        },
+        {
+          "id": "mello",
+          "height": 514.6875,
+          "width": 1120,
+          "client": 434,
+          "scroll": 434
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "expanded": false,
+      "spacing": false,
+      "consistent": true,
+      "unclipped": true,
+      "overflow": false,
+      "rows": [
+        {
+          "id": "overview",
+          "height": 635,
+          "width": 682,
+          "client": 557,
+          "scroll": 557
+        },
+        {
+          "id": "content",
+          "height": 635,
+          "width": 682,
+          "client": 557,
+          "scroll": 557
+        },
+        {
+          "id": "chorus",
+          "height": 635,
+          "width": 682,
+          "client": 557,
+          "scroll": 557
+        },
+        {
+          "id": "signals",
+          "height": 635,
+          "width": 682,
+          "client": 557,
+          "scroll": 557
+        },
+        {
+          "id": "leads",
+          "height": 635,
+          "width": 682,
+          "client": 557,
+          "scroll": 557
+        },
+        {
+          "id": "outreach",
+          "height": 635,
+          "width": 682,
+          "client": 557,
+          "scroll": 557
+        },
+        {
+          "id": "inbox",
+          "height": 635,
+          "width": 682,
+          "client": 557,
+          "scroll": 557
+        },
+        {
+          "id": "mello",
+          "height": 635,
+          "width": 682,
+          "client": 557,
+          "scroll": 557
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "expanded": false,
+      "spacing": false,
+      "consistent": true,
+      "unclipped": true,
+      "overflow": false,
+      "rows": [
+        {
+          "id": "overview",
+          "height": 857.1875,
+          "width": 328,
+          "client": 610,
+          "scroll": 610
+        },
+        {
+          "id": "content",
+          "height": 857.1875,
+          "width": 328,
+          "client": 610,
+          "scroll": 610
+        },
+        {
+          "id": "chorus",
+          "height": 857.1875,
+          "width": 328,
+          "client": 610,
+          "scroll": 610
+        },
+        {
+          "id": "signals",
+          "height": 857.1875,
+          "width": 328,
+          "client": 610,
+          "scroll": 610
+        },
+        {
+          "id": "leads",
+          "height": 857.1875,
+          "width": 328,
+          "client": 610,
+          "scroll": 610
+        },
+        {
+          "id": "outreach",
+          "height": 857.1875,
+          "width": 328,
+          "client": 610,
+          "scroll": 610
+        },
+        {
+          "id": "inbox",
+          "height": 857.1875,
+          "width": 328,
+          "client": 610,
+          "scroll": 610
+        },
+        {
+          "id": "mello",
+          "height": 857.1875,
+          "width": 328,
+          "client": 610,
+          "scroll": 610
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "expanded": false,
+      "spacing": false,
+      "consistent": true,
+      "unclipped": true,
+      "overflow": false,
+      "rows": [
+        {
+          "id": "overview",
+          "height": 961.984375,
+          "width": 270,
+          "client": 695,
+          "scroll": 695
+        },
+        {
+          "id": "content",
+          "height": 961.984375,
+          "width": 270,
+          "client": 695,
+          "scroll": 695
+        },
+        {
+          "id": "chorus",
+          "height": 961.984375,
+          "width": 270,
+          "client": 695,
+          "scroll": 695
+        },
+        {
+          "id": "signals",
+          "height": 961.984375,
+          "width": 270,
+          "client": 695,
+          "scroll": 695
+        },
+        {
+          "id": "leads",
+          "height": 961.984375,
+          "width": 270,
+          "client": 695,
+          "scroll": 695
+        },
+        {
+          "id": "outreach",
+          "height": 961.984375,
+          "width": 270,
+          "client": 695,
+          "scroll": 695
+        },
+        {
+          "id": "inbox",
+          "height": 961.984375,
+          "width": 270,
+          "client": 695,
+          "scroll": 695
+        },
+        {
+          "id": "mello",
+          "height": 961.984375,
+          "width": 270,
+          "client": 695,
+          "scroll": 695
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "expanded": true,
+      "spacing": false,
+      "consistent": true,
+      "unclipped": true,
+      "overflow": false,
+      "rows": [
+        {
+          "id": "overview",
+          "height": 1295.1875,
+          "width": 328,
+          "client": 1048,
+          "scroll": 1048
+        },
+        {
+          "id": "content",
+          "height": 1295.1875,
+          "width": 328,
+          "client": 1048,
+          "scroll": 1048
+        },
+        {
+          "id": "chorus",
+          "height": 1295.1875,
+          "width": 328,
+          "client": 1048,
+          "scroll": 1048
+        },
+        {
+          "id": "signals",
+          "height": 1295.1875,
+          "width": 328,
+          "client": 1048,
+          "scroll": 1048
+        },
+        {
+          "id": "leads",
+          "height": 1295.1875,
+          "width": 328,
+          "client": 1048,
+          "scroll": 1048
+        },
+        {
+          "id": "outreach",
+          "height": 1295.1875,
+          "width": 328,
+          "client": 1048,
+          "scroll": 1048
+        },
+        {
+          "id": "inbox",
+          "height": 1295.1875,
+          "width": 328,
+          "client": 1048,
+          "scroll": 1048
+        },
+        {
+          "id": "mello",
+          "height": 1295.1875,
+          "width": 328,
+          "client": 1048,
+          "scroll": 1048
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "expanded": true,
+      "spacing": false,
+      "consistent": true,
+      "unclipped": true,
+      "overflow": false,
+      "rows": [
+        {
+          "id": "overview",
+          "height": 1430.984375,
+          "width": 270,
+          "client": 1164,
+          "scroll": 1164
+        },
+        {
+          "id": "content",
+          "height": 1430.984375,
+          "width": 270,
+          "client": 1164,
+          "scroll": 1164
+        },
+        {
+          "id": "chorus",
+          "height": 1430.984375,
+          "width": 270,
+          "client": 1164,
+          "scroll": 1164
+        },
+        {
+          "id": "signals",
+          "height": 1430.984375,
+          "width": 270,
+          "client": 1164,
+          "scroll": 1164
+        },
+        {
+          "id": "leads",
+          "height": 1430.984375,
+          "width": 270,
+          "client": 1164,
+          "scroll": 1164
+        },
+        {
+          "id": "outreach",
+          "height": 1430.984375,
+          "width": 270,
+          "client": 1164,
+          "scroll": 1164
+        },
+        {
+          "id": "inbox",
+          "height": 1430.984375,
+          "width": 270,
+          "client": 1164,
+          "scroll": 1164
+        },
+        {
+          "id": "mello",
+          "height": 1430.984375,
+          "width": 270,
+          "client": 1164,
+          "scroll": 1164
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "expanded": false,
+      "spacing": true,
+      "consistent": true,
+      "unclipped": true,
+      "overflow": false,
+      "rows": [
+        {
+          "id": "overview",
+          "height": 525,
+          "width": 1120,
+          "client": 447,
+          "scroll": 447
+        },
+        {
+          "id": "content",
+          "height": 525,
+          "width": 1120,
+          "client": 447,
+          "scroll": 447
+        },
+        {
+          "id": "chorus",
+          "height": 525,
+          "width": 1120,
+          "client": 447,
+          "scroll": 447
+        },
+        {
+          "id": "signals",
+          "height": 525,
+          "width": 1120,
+          "client": 447,
+          "scroll": 447
+        },
+        {
+          "id": "leads",
+          "height": 525,
+          "width": 1120,
+          "client": 447,
+          "scroll": 447
+        },
+        {
+          "id": "outreach",
+          "height": 525,
+          "width": 1120,
+          "client": 447,
+          "scroll": 447
+        },
+        {
+          "id": "inbox",
+          "height": 525,
+          "width": 1120,
+          "client": 447,
+          "scroll": 447
+        },
+        {
+          "id": "mello",
+          "height": 525,
+          "width": 1120,
+          "client": 447,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "expanded": false,
+      "spacing": true,
+      "consistent": true,
+      "unclipped": true,
+      "overflow": false,
+      "rows": [
+        {
+          "id": "overview",
+          "height": 947,
+          "width": 328,
+          "client": 689,
+          "scroll": 689
+        },
+        {
+          "id": "content",
+          "height": 947,
+          "width": 328,
+          "client": 689,
+          "scroll": 689
+        },
+        {
+          "id": "chorus",
+          "height": 947,
+          "width": 328,
+          "client": 689,
+          "scroll": 689
+        },
+        {
+          "id": "signals",
+          "height": 947,
+          "width": 328,
+          "client": 689,
+          "scroll": 689
+        },
+        {
+          "id": "leads",
+          "height": 947,
+          "width": 328,
+          "client": 689,
+          "scroll": 689
+        },
+        {
+          "id": "outreach",
+          "height": 947,
+          "width": 328,
+          "client": 689,
+          "scroll": 689
+        },
+        {
+          "id": "inbox",
+          "height": 947,
+          "width": 328,
+          "client": 689,
+          "scroll": 689
+        },
+        {
+          "id": "mello",
+          "height": 947,
+          "width": 328,
+          "client": 689,
+          "scroll": 689
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

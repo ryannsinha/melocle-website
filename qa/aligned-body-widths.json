@@ -1,0 +1,359 @@
+[
+  {
+    "width": 1920,
+    "overflow": false,
+    "items": [
+      {
+        "selector": ".nav-wrap",
+        "x": 340,
+        "width": 1240
+      },
+      {
+        "selector": ".footer-main",
+        "x": 340,
+        "width": 1240
+      },
+      {
+        "selector": ".platform-walkthrough",
+        "x": 340,
+        "width": 1240
+      },
+      {
+        "selector": "#presence",
+        "x": 340,
+        "width": 1240
+      },
+      {
+        "selector": "#mello",
+        "x": 340,
+        "width": 1240
+      },
+      {
+        "selector": "#for-you",
+        "x": 340,
+        "width": 1240
+      },
+      {
+        "selector": "#faq",
+        "x": 340,
+        "width": 1240
+      },
+      {
+        "selector": ".closing-section",
+        "x": 340,
+        "width": 1240
+      },
+      {
+        "selector": "#relationships",
+        "x": 340,
+        "width": 1240
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "overflow": false,
+    "items": [
+      {
+        "selector": ".nav-wrap",
+        "x": 100,
+        "width": 1240
+      },
+      {
+        "selector": ".footer-main",
+        "x": 100,
+        "width": 1240
+      },
+      {
+        "selector": ".platform-walkthrough",
+        "x": 100,
+        "width": 1240
+      },
+      {
+        "selector": "#presence",
+        "x": 100,
+        "width": 1240
+      },
+      {
+        "selector": "#mello",
+        "x": 100,
+        "width": 1240
+      },
+      {
+        "selector": "#for-you",
+        "x": 100,
+        "width": 1240
+      },
+      {
+        "selector": "#faq",
+        "x": 100,
+        "width": 1240
+      },
+      {
+        "selector": ".closing-section",
+        "x": 100,
+        "width": 1240
+      },
+      {
+        "selector": "#relationships",
+        "x": 100,
+        "width": 1240
+      }
+    ]
+  },
+  {
+    "width": 1280,
+    "overflow": false,
+    "items": [
+      {
+        "selector": ".nav-wrap",
+        "x": 48,
+        "width": 1184
+      },
+      {
+        "selector": ".footer-main",
+        "x": 48,
+        "width": 1184
+      },
+      {
+        "selector": ".platform-walkthrough",
+        "x": 48,
+        "width": 1184
+      },
+      {
+        "selector": "#presence",
+        "x": 48,
+        "width": 1184
+      },
+      {
+        "selector": "#mello",
+        "x": 48,
+        "width": 1184
+      },
+      {
+        "selector": "#for-you",
+        "x": 48,
+        "width": 1184
+      },
+      {
+        "selector": "#faq",
+        "x": 48,
+        "width": 1184
+      },
+      {
+        "selector": ".closing-section",
+        "x": 48,
+        "width": 1184
+      },
+      {
+        "selector": "#relationships",
+        "x": 48,
+        "width": 1184
+      }
+    ]
+  },
+  {
+    "width": 1024,
+    "overflow": false,
+    "items": [
+      {
+        "selector": ".nav-wrap",
+        "x": 32,
+        "width": 960
+      },
+      {
+        "selector": ".footer-main",
+        "x": 48,
+        "width": 928
+      },
+      {
+        "selector": ".platform-walkthrough",
+        "x": 48,
+        "width": 928
+      },
+      {
+        "selector": "#presence",
+        "x": 48,
+        "width": 928
+      },
+      {
+        "selector": "#mello",
+        "x": 48,
+        "width": 928
+      },
+      {
+        "selector": "#for-you",
+        "x": 48,
+        "width": 928
+      },
+      {
+        "selector": "#faq",
+        "x": 48,
+        "width": 928
+      },
+      {
+        "selector": ".closing-section",
+        "x": 48,
+        "width": 928
+      },
+      {
+        "selector": "#relationships",
+        "x": 48,
+        "width": 928
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "overflow": false,
+    "items": [
+      {
+        "selector": ".nav-wrap",
+        "x": 24,
+        "width": 720
+      },
+      {
+        "selector": ".footer-main",
+        "x": 24,
+        "width": 720
+      },
+      {
+        "selector": ".platform-walkthrough",
+        "x": 24,
+        "width": 720
+      },
+      {
+        "selector": "#presence",
+        "x": 24,
+        "width": 720
+      },
+      {
+        "selector": "#mello",
+        "x": 24,
+        "width": 720
+      },
+      {
+        "selector": "#for-you",
+        "x": 24,
+        "width": 720
+      },
+      {
+        "selector": "#faq",
+        "x": 24,
+        "width": 720
+      },
+      {
+        "selector": ".closing-section",
+        "x": 24,
+        "width": 720
+      },
+      {
+        "selector": "#relationships",
+        "x": 24,
+        "width": 720
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "overflow": false,
+    "items": [
+      {
+        "selector": ".nav-wrap",
+        "x": 18,
+        "width": 354
+      },
+      {
+        "selector": ".footer-main",
+        "x": 24,
+        "width": 342
+      },
+      {
+        "selector": ".platform-walkthrough",
+        "x": 24,
+        "width": 342
+      },
+      {
+        "selector": "#presence",
+        "x": 24,
+        "width": 342
+      },
+      {
+        "selector": "#mello",
+        "x": 24,
+        "width": 342
+      },
+      {
+        "selector": "#for-you",
+        "x": 24,
+        "width": 342
+      },
+      {
+        "selector": "#faq",
+        "x": 24,
+        "width": 342
+      },
+      {
+        "selector": ".closing-section",
+        "x": 24,
+        "width": 342
+      },
+      {
+        "selector": "#relationships",
+        "x": 24,
+        "width": 342
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "overflow": false,
+    "items": [
+      {
+        "selector": ".nav-wrap",
+        "x": 18,
+        "width": 284
+      },
+      {
+        "selector": ".footer-main",
+        "x": 18,
+        "width": 284
+      },
+      {
+        "selector": ".platform-walkthrough",
+        "x": 18,
+        "width": 284
+      },
+      {
+        "selector": "#presence",
+        "x": 18,
+        "width": 284
+      },
+      {
+        "selector": "#mello",
+        "x": 18,
+        "width": 284
+      },
+      {
+        "selector": "#for-you",
+        "x": 18,
+        "width": 284
+      },
+      {
+        "selector": "#faq",
+        "x": 18,
+        "width": 284
+      },
+      {
+        "selector": ".closing-section",
+        "x": 18,
+        "width": 284
+      },
+      {
+        "selector": "#relationships",
+        "x": 18,
+        "width": 284
+      }
+    ]
+  }
+]

@@ -1,0 +1,617 @@
+{
+  "passed": 51,
+  "total": 51,
+  "checks": [
+    {
+      "name": "1920 body follows footer width and alignment",
+      "pass": true,
+      "detail": [
+        {
+          "s": ".platform-walkthrough",
+          "width": 1240,
+          "expected": 1240,
+          "x": 340,
+          "expectedX": 340
+        },
+        {
+          "s": "#presence",
+          "width": 1240,
+          "expected": 1240,
+          "x": 340,
+          "expectedX": 340
+        },
+        {
+          "s": "#mello",
+          "width": 1240,
+          "expected": 1240,
+          "x": 340,
+          "expectedX": 340
+        },
+        {
+          "s": "#for-you",
+          "width": 1240,
+          "expected": 1240,
+          "x": 340,
+          "expectedX": 340
+        },
+        {
+          "s": "#faq",
+          "width": 1240,
+          "expected": 1240,
+          "x": 340,
+          "expectedX": 340
+        },
+        {
+          "s": ".closing-section",
+          "width": 1240,
+          "expected": 1240,
+          "x": 340,
+          "expectedX": 340
+        },
+        {
+          "s": "#relationships",
+          "width": 1240,
+          "expected": 1240,
+          "x": 340,
+          "expectedX": 340
+        },
+        {
+          "s": ".platform-subnav",
+          "width": 1240,
+          "expected": 1240,
+          "x": 340,
+          "expectedX": 340
+        }
+      ]
+    },
+    {
+      "name": "1920 no horizontal document overflow",
+      "pass": true
+    },
+    {
+      "name": "1920 relationship cards fit without clipping",
+      "pass": true
+    },
+    {
+      "name": "1920 appropriate relationship grid",
+      "pass": true
+    },
+    {
+      "name": "1920 black submenu stays sticky",
+      "pass": true
+    },
+    {
+      "name": "1920 Unibox releases submenu",
+      "pass": true
+    },
+    {
+      "name": "1440 body follows footer width and alignment",
+      "pass": true,
+      "detail": [
+        {
+          "s": ".platform-walkthrough",
+          "width": 1240,
+          "expected": 1240,
+          "x": 100,
+          "expectedX": 100
+        },
+        {
+          "s": "#presence",
+          "width": 1240,
+          "expected": 1240,
+          "x": 100,
+          "expectedX": 100
+        },
+        {
+          "s": "#mello",
+          "width": 1240,
+          "expected": 1240,
+          "x": 100,
+          "expectedX": 100
+        },
+        {
+          "s": "#for-you",
+          "width": 1240,
+          "expected": 1240,
+          "x": 100,
+          "expectedX": 100
+        },
+        {
+          "s": "#faq",
+          "width": 1240,
+          "expected": 1240,
+          "x": 100,
+          "expectedX": 100
+        },
+        {
+          "s": ".closing-section",
+          "width": 1240,
+          "expected": 1240,
+          "x": 100,
+          "expectedX": 100
+        },
+        {
+          "s": "#relationships",
+          "width": 1240,
+          "expected": 1240,
+          "x": 100,
+          "expectedX": 100
+        },
+        {
+          "s": ".platform-subnav",
+          "width": 1240,
+          "expected": 1240,
+          "x": 100,
+          "expectedX": 100
+        }
+      ]
+    },
+    {
+      "name": "1440 no horizontal document overflow",
+      "pass": true
+    },
+    {
+      "name": "1440 relationship cards fit without clipping",
+      "pass": true
+    },
+    {
+      "name": "1440 appropriate relationship grid",
+      "pass": true
+    },
+    {
+      "name": "1440 black submenu stays sticky",
+      "pass": true
+    },
+    {
+      "name": "1440 Unibox releases submenu",
+      "pass": true
+    },
+    {
+      "name": "1280 body follows footer width and alignment",
+      "pass": true,
+      "detail": [
+        {
+          "s": ".platform-walkthrough",
+          "width": 1184,
+          "expected": 1184,
+          "x": 48,
+          "expectedX": 48
+        },
+        {
+          "s": "#presence",
+          "width": 1184,
+          "expected": 1184,
+          "x": 48,
+          "expectedX": 48
+        },
+        {
+          "s": "#mello",
+          "width": 1184,
+          "expected": 1184,
+          "x": 48,
+          "expectedX": 48
+        },
+        {
+          "s": "#for-you",
+          "width": 1184,
+          "expected": 1184,
+          "x": 48,
+          "expectedX": 48
+        },
+        {
+          "s": "#faq",
+          "width": 1184,
+          "expected": 1184,
+          "x": 48,
+          "expectedX": 48
+        },
+        {
+          "s": ".closing-section",
+          "width": 1184,
+          "expected": 1184,
+          "x": 48,
+          "expectedX": 48
+        },
+        {
+          "s": "#relationships",
+          "width": 1184,
+          "expected": 1184,
+          "x": 48,
+          "expectedX": 48
+        },
+        {
+          "s": ".platform-subnav",
+          "width": 1184,
+          "expected": 1184,
+          "x": 48,
+          "expectedX": 48
+        }
+      ]
+    },
+    {
+      "name": "1280 no horizontal document overflow",
+      "pass": true
+    },
+    {
+      "name": "1280 relationship cards fit without clipping",
+      "pass": true
+    },
+    {
+      "name": "1280 appropriate relationship grid",
+      "pass": true
+    },
+    {
+      "name": "1280 black submenu stays sticky",
+      "pass": true
+    },
+    {
+      "name": "1280 Unibox releases submenu",
+      "pass": true
+    },
+    {
+      "name": "1024 body follows footer width and alignment",
+      "pass": true,
+      "detail": [
+        {
+          "s": ".platform-walkthrough",
+          "width": 928,
+          "expected": 928,
+          "x": 48,
+          "expectedX": 48
+        },
+        {
+          "s": "#presence",
+          "width": 928,
+          "expected": 928,
+          "x": 48,
+          "expectedX": 48
+        },
+        {
+          "s": "#mello",
+          "width": 928,
+          "expected": 928,
+          "x": 48,
+          "expectedX": 48
+        },
+        {
+          "s": "#for-you",
+          "width": 928,
+          "expected": 928,
+          "x": 48,
+          "expectedX": 48
+        },
+        {
+          "s": "#faq",
+          "width": 928,
+          "expected": 928,
+          "x": 48,
+          "expectedX": 48
+        },
+        {
+          "s": ".closing-section",
+          "width": 928,
+          "expected": 928,
+          "x": 48,
+          "expectedX": 48
+        },
+        {
+          "s": "#relationships",
+          "width": 928,
+          "expected": 928,
+          "x": 48,
+          "expectedX": 48
+        },
+        {
+          "s": ".platform-subnav",
+          "width": 928,
+          "expected": 928,
+          "x": 48,
+          "expectedX": 48
+        }
+      ]
+    },
+    {
+      "name": "1024 no horizontal document overflow",
+      "pass": true
+    },
+    {
+      "name": "1024 relationship cards fit without clipping",
+      "pass": true
+    },
+    {
+      "name": "1024 appropriate relationship grid",
+      "pass": true
+    },
+    {
+      "name": "1024 black submenu stays sticky",
+      "pass": true
+    },
+    {
+      "name": "1024 Unibox releases submenu",
+      "pass": true
+    },
+    {
+      "name": "768 body follows footer width and alignment",
+      "pass": true,
+      "detail": [
+        {
+          "s": ".platform-walkthrough",
+          "width": 720,
+          "expected": 720,
+          "x": 24,
+          "expectedX": 24
+        },
+        {
+          "s": "#presence",
+          "width": 720,
+          "expected": 720,
+          "x": 24,
+          "expectedX": 24
+        },
+        {
+          "s": "#mello",
+          "width": 720,
+          "expected": 720,
+          "x": 24,
+          "expectedX": 24
+        },
+        {
+          "s": "#for-you",
+          "width": 720,
+          "expected": 720,
+          "x": 24,
+          "expectedX": 24
+        },
+        {
+          "s": "#faq",
+          "width": 720,
+          "expected": 720,
+          "x": 24,
+          "expectedX": 24
+        },
+        {
+          "s": ".closing-section",
+          "width": 720,
+          "expected": 720,
+          "x": 24,
+          "expectedX": 24
+        },
+        {
+          "s": "#relationships",
+          "width": 720,
+          "expected": 720,
+          "x": 24,
+          "expectedX": 24
+        },
+        {
+          "s": ".platform-subnav",
+          "width": 720,
+          "expected": 720,
+          "x": 24,
+          "expectedX": 24
+        }
+      ]
+    },
+    {
+      "name": "768 no horizontal document overflow",
+      "pass": true
+    },
+    {
+      "name": "768 relationship cards fit without clipping",
+      "pass": true
+    },
+    {
+      "name": "768 appropriate relationship grid",
+      "pass": true
+    },
+    {
+      "name": "768 black submenu stays sticky",
+      "pass": true
+    },
+    {
+      "name": "768 Unibox releases submenu",
+      "pass": true
+    },
+    {
+      "name": "390 body follows footer width and alignment",
+      "pass": true,
+      "detail": [
+        {
+          "s": ".platform-walkthrough",
+          "width": 342,
+          "expected": 342,
+          "x": 24,
+          "expectedX": 24
+        },
+        {
+          "s": "#presence",
+          "width": 342,
+          "expected": 342,
+          "x": 24,
+          "expectedX": 24
+        },
+        {
+          "s": "#mello",
+          "width": 342,
+          "expected": 342,
+          "x": 24,
+          "expectedX": 24
+        },
+        {
+          "s": "#for-you",
+          "width": 342,
+          "expected": 342,
+          "x": 24,
+          "expectedX": 24
+        },
+        {
+          "s": "#faq",
+          "width": 342,
+          "expected": 342,
+          "x": 24,
+          "expectedX": 24
+        },
+        {
+          "s": ".closing-section",
+          "width": 342,
+          "expected": 342,
+          "x": 24,
+          "expectedX": 24
+        },
+        {
+          "s": "#relationships",
+          "width": 342,
+          "expected": 342,
+          "x": 24,
+          "expectedX": 24
+        },
+        {
+          "s": ".platform-subnav",
+          "width": 342,
+          "expected": 342,
+          "x": 24,
+          "expectedX": 24
+        }
+      ]
+    },
+    {
+      "name": "390 no horizontal document overflow",
+      "pass": true
+    },
+    {
+      "name": "390 relationship cards fit without clipping",
+      "pass": true
+    },
+    {
+      "name": "390 appropriate relationship grid",
+      "pass": true
+    },
+    {
+      "name": "390 black submenu stays sticky",
+      "pass": true
+    },
+    {
+      "name": "390 Unibox releases submenu",
+      "pass": true
+    },
+    {
+      "name": "320 body follows footer width and alignment",
+      "pass": true,
+      "detail": [
+        {
+          "s": ".platform-walkthrough",
+          "width": 284,
+          "expected": 284,
+          "x": 18,
+          "expectedX": 18
+        },
+        {
+          "s": "#presence",
+          "width": 284,
+          "expected": 284,
+          "x": 18,
+          "expectedX": 18
+        },
+        {
+          "s": "#mello",
+          "width": 284,
+          "expected": 284,
+          "x": 18,
+          "expectedX": 18
+        },
+        {
+          "s": "#for-you",
+          "width": 284,
+          "expected": 284,
+          "x": 18,
+          "expectedX": 18
+        },
+        {
+          "s": "#faq",
+          "width": 284,
+          "expected": 284,
+          "x": 18,
+          "expectedX": 18
+        },
+        {
+          "s": ".closing-section",
+          "width": 284,
+          "expected": 284,
+          "x": 18,
+          "expectedX": 18
+        },
+        {
+          "s": "#relationships",
+          "width": 284,
+          "expected": 284,
+          "x": 18,
+          "expectedX": 18
+        },
+        {
+          "s": ".platform-subnav",
+          "width": 284,
+          "expected": 284,
+          "x": 18,
+          "expectedX": 18
+        }
+      ]
+    },
+    {
+      "name": "320 no horizontal document overflow",
+      "pass": true
+    },
+    {
+      "name": "320 relationship cards fit without clipping",
+      "pass": true
+    },
+    {
+      "name": "320 appropriate relationship grid",
+      "pass": true
+    },
+    {
+      "name": "320 black submenu stays sticky",
+      "pass": true
+    },
+    {
+      "name": "320 Unibox releases submenu",
+      "pass": true
+    },
+    {
+      "name": "Both expanded relationship features are visible without disclosure",
+      "pass": true
+    },
+    {
+      "name": "Lead magnet shows request and resource context",
+      "pass": true
+    },
+    {
+      "name": "Introduction path includes the shared connection",
+      "pass": true
+    },
+    {
+      "name": "lead-magnets CTA opens existing access flow",
+      "pass": true
+    },
+    {
+      "name": "lead-magnets focus returns",
+      "pass": true
+    },
+    {
+      "name": "warm-introductions CTA opens existing access flow",
+      "pass": true
+    },
+    {
+      "name": "warm-introductions focus returns",
+      "pass": true
+    },
+    {
+      "name": "No missing SVG symbols",
+      "pass": true
+    },
+    {
+      "name": "No runtime errors",
+      "pass": true,
+      "detail": []
+    }
+  ]
+}

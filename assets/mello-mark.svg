@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Mello</title>
+  <style>
+    #eyes { transform-box: fill-box; transform-origin: center; animation: blink 5.8s ease-in-out 1.5s infinite; }
+    @keyframes blink { 0%, 86%, 90%, 100% { transform: scaleY(1); } 88% { transform: scaleY(.08); } }
+    @media (prefers-reduced-motion: reduce) { #eyes { animation: none; } }
+  </style>
+  <rect width="64" height="64" rx="13" fill="#111111"/>
+  <g transform="translate(32 32) scale(.82) translate(-32 -32)">
+    <g fill="none" stroke="#ffffff" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M32 18V11M23.5 11h17"/>
+      <path d="M8.5 32h4M51.5 32h4"/>
+      <rect x="12.5" y="18" width="39" height="34" rx="8.5"/>
+    </g>
+    <g id="eyes" fill="#ffffff">
+      <rect x="23" y="29.5" width="3.7" height="10" rx="1.85"/>
+      <rect x="37.3" y="29.5" width="3.7" height="10" rx="1.85"/>
+    </g>
+  </g>
+</svg>

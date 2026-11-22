@@ -1,0 +1,40 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "width": 1920,
+      "fullWidth": true,
+      "sticky": true,
+      "noOverflow": true,
+      "exitsAtUnibox": true
+    },
+    {
+      "width": 1440,
+      "fullWidth": true,
+      "sticky": true,
+      "noOverflow": true,
+      "exitsAtUnibox": true
+    },
+    {
+      "width": 768,
+      "fullWidth": true,
+      "sticky": true,
+      "noOverflow": true,
+      "exitsAtUnibox": true
+    },
+    {
+      "width": 390,
+      "fullWidth": true,
+      "sticky": true,
+      "noOverflow": true,
+      "exitsAtUnibox": true
+    },
+    {
+      "width": 320,
+      "fullWidth": true,
+      "sticky": true,
+      "noOverflow": true,
+      "exitsAtUnibox": true
+    }
+  ]
+}
